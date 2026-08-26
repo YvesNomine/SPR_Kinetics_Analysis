@@ -28,7 +28,7 @@ For each pair of SPR data files (sample + reference):
    - a multi-panel PDF with every individual sensorgram (data / reference / subtracted) per concentration,
    - a single overlay figure (EPS) with all normalized subtracted curves for the dataset.
      
-**Input:** a '*<basename>_Kinetics.txt' file containing Time and Response data from any kind of kinetic data. The file can contain data recorded for several analyte concentrations.
+**Input:** a '*<basename>_Kinetics.txt' file containing Time and Response data from any kind of kinetic data. The file might contain data recorded for several analyte concentrations, and should include the reference.
 
 
 **Key parameters (top of script)**
