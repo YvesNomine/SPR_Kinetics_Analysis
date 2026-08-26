@@ -15,17 +15,17 @@ abstract: >-
 
 authors:
     family-names: "Nominé"
-	given-names: "Yves"
-	affiliation: "IGBMC, CBI"
-	orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # à compléter
+    given-names: "Yves"
+    affiliation: "IGBMC, CBI"
+    orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # to be completed
 
 repository-code: "https://github.com/YvesNomine/SPR_Kinetics_Analysis"
 
 license: MIT
 
-version: 1.0.0  # à ajuster selon le tag de la release GitHub
+version: 1.0.0  # to be adjusted
 
-date-released: 2026-08-26  # à ajuster à la date de la release
+date-released: 2026-08-26
 
 identifiers:
   - type: other
@@ -37,14 +37,14 @@ identifiers:
 
 preferred-citation:
   type: article
-  title: "TITRE DE L'ARTICLE"  # à compléter
+  title: "Pharmacological inhibition of UBASH3B induces mitotic arrest and selectively reduces tumor growth "  # à compléter
   authors:
-  - family-names: E. Pangou, S. Awal, M. Meode, C. Kleiss, M. Cloarec,  E. Grandgirard, K. Vivot, L. Guerber, K. Krupina, K. Jerabkova-Roda, P.J. da Costa,  F. Alpy, A. Martinet, Massimo Lodi1, 2, 3, 4, Alexandra Cousido-Siah, O. Wendling, R. Hany, S. Riché, François Daubeuf9, P. Gizzi, P. Villa, Y. Nominé, C. Tomasetto, D. Bonnet and I. Sumara
-  journal: "NOM DU JOURNAL"  # à compléter
-  year: 2026  # à ajuster
-  volume: ""  # à compléter
-  issue: ""  # à compléter
-  start: ""  # première page, à compléter
-  end: ""  # dernière page, à compléter
-  doi: "10.XXXX/XXXXXXXX"  # DOI de l'article, à compléter
-  url: "https://doi.org/10.XXXX/XXXXXXXX"  # à compléter
+  family-names: E. Pangou, S. Awal, M. Meode, C. Kleiss, M. Cloarec,  E. Grandgirard, K. Vivot, L. Guerber, K. Krupina, K. Jerabkova-Roda, P.J. da Costa,  F. Alpy, A. Martinet, Massimo Lodi1, 2, 3, 4, Alexandra Cousido-Siah, O. Wendling, R. Hany, S. Riché, François Daubeuf9, P. Gizzi, P. Villa, Y. Nominé, C. Tomasetto, D. Bonnet and I. Sumara
+  journal: "EMBO Molecular Medecine"
+  year: 2026
+  volume: ""  # to be completed
+  issue: ""  # to be completed
+  start: ""  # first page, to be completed
+  end: ""  # last page, to be completed
+  doi: "10.XXXX/XXXXXXXX"  # article DOI, to be completed
+  url: "https://doi.org/10.XXXX/XXXXXXXX"  # to be completed
