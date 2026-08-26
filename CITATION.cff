@@ -14,7 +14,7 @@ abstract: >-
   with optional Monte Carlo uncertainty estimation (spr_affinity_fit.py).
 
 authors:
-        family-names: "Nominé"
+    family-names: "Nominé"
 	given-names: "Yves"
 	affiliation: "IGBMC, CBI"
 	orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # à compléter
