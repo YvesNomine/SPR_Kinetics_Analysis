@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the associated article and this software."
+
+type: software
+
+title: "SPR Kinetics and Affinity Analysis Scripts"
+
+abstract: >-
+  Python scripts for processing Surface Plasmon Resonance (SPR) data:
+  (1) kinetics preprocessing, reference subtraction, molecular-weight-based
+  normalization and steady-state signal extraction (spr_kinetics_analysis.py),
+  and
+  (2) fitting of a 1:1 binding isotherm to steady-state affinity data,
+  with optional Monte Carlo uncertainty estimation (spr_affinity_fit.py).
+
+authors:
+        family-names: "Nominé"
+	given-names: "Yves"
+	affiliation: "IGBMC, CBI"
+	orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # à compléter
+
+repository-code: "https://github.com/<votre-compte>/<nom-du-repo>"  # à compléter
+
+doi: 10.5281/zenodo.XXXXXXX  # à compléter avec le DOI Zenodo une fois généré
+
+license: MIT
+
+version: 1.0.0  # à ajuster selon le tag de la release GitHub
+
+date-released: 2026-08-26  # à ajuster à la date de la release
+
+identifiers:
+  - type: other
+    value: "spr_kinetics_analysis.py"
+    description: "SPR kinetics preprocessing and plotting script"
+  - type: other
+    value: "spr_affinity_fit.py"
+    description: "SPR steady-state affinity fitting script"
+
+preferred-citation:
+  type: article
+  title: "TITRE DE L'ARTICLE"  # à compléter
+  authors:
+  - family-names: E. Pangou, S. Awal, M. Meode, C. Kleiss, M. Cloarec,  E. Grandgirard, K. Vivot, L. Guerber, K. Krupina, K. Jerabkova-Roda, P.J. da Costa,  F. Alpy, A. Martinet, Massimo Lodi1, 2, 3, 4, Alexandra Cousido-Siah, O. Wendling, R. Hany, S. Riché, François Daubeuf9, P. Gizzi, P. Villa, Y. Nominé, C. Tomasetto, D. Bonnet and I. Sumara
+  journal: "NOM DU JOURNAL"  # à compléter
+  year: 2026  # à ajuster
+  volume: ""  # à compléter
+  issue: ""  # à compléter
+  start: ""  # première page, à compléter
+  end: ""  # dernière page, à compléter
+  doi: "10.XXXX/XXXXXXXX"  # DOI de l'article, à compléter
+  url: "https://doi.org/10.XXXX/XXXXXXXX"  # à compléter
