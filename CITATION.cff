@@ -19,9 +19,7 @@ authors:
 	affiliation: "IGBMC, CBI"
 	orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"  # à compléter
 
-repository-code: "https://github.com/<votre-compte>/<nom-du-repo>"  # à compléter
-
-doi: 10.5281/zenodo.XXXXXXX  # à compléter avec le DOI Zenodo une fois généré
+repository-code: "https://github.com/YvesNomine/SPR_Kinetics_Analysis"
 
 license: MIT
 
